@@ -6,7 +6,7 @@ Not 100% sure what all to add, but if you go to the GitHub you can request recip
 You can find this datapack at https://modrinth.com/datapack/crafting+
 
 # Features (v1.20.1.3)
-- Any logs to sticks and chests
+- Logs to sticks and chests
 - Hay bales to Bread
 - Enchanted Golden Apple, but you have to use a regular golden apple to make it.
 - Wool to String
