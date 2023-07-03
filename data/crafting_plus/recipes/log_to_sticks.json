@@ -28,6 +28,9 @@
               "item": "minecraft:mangrove_log"
           },
           {
+              "item": "minecraft:cherry_log"
+          },
+          {
             "item": "minecraft:warped_stem"
           },
           {
@@ -53,6 +56,9 @@
           },
           {
               "item": "minecraft:mangrove_wood"
+          },
+          {
+              "item": "minecraft:cherry_wood"
           },
           {
             "item": "minecraft:warped_hyphae"
@@ -82,6 +88,9 @@
               "item": "minecraft:stripped_mangrove_log"
           },
           {
+              "item": "minecraft:stripped_cherry_log"
+          },
+          {
               "item": "minecraft:stripped_warped_stem"
           },
           {
@@ -103,10 +112,13 @@
               "item": "minecraft:stripped_acacia_wood"
           },
           {
-              "item": "minecraft:stripped_dark_oak_wood"
+              "item": "minecraft:stripped_dark_oak_wood"  
           },
           {
               "item": "minecraft:stripped_mangrove_wood"
+          },
+          {
+              "item": "minecraft:stripped_cherry_wood"
           },
           {
               "item": "minecraft:stripped_warped_hyphae"
@@ -119,6 +131,5 @@
   "result": {
       "item": "minecraft:stick",
       "count": 16
-  },
-  "group": "sticks"
+  }
 }
