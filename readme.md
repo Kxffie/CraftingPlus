@@ -13,3 +13,6 @@ Not 100% sure what all to add, but if you go to the GitHub you can request recip
 
 # Future ideas
 - Suggest ideas in the GitHub
+
+# Donate
+[PayPal](https://www.paypal.com/paypalme/kxffie) [Cashapp](https://cash.app/$kxffie)
