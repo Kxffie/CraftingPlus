@@ -1,3 +1,6 @@
+[![Modrinth](https://img.shields.io/modrinth/dt/sjUk6lfU?style=for-the-badge&logo=modrinth&label=Modrinth&labelColor=black&color=green)](https://modrinth.com/datapack/crafting+)
+![GitHub](https://img.shields.io/github/license/kxffie/craftingplus?style=for-the-badge&logo=github&label=Github&labelColor=black&color=white)
+
 # Hey! I'm [Kxffie](https://www.youtube.com/Kxffie?sub_confirmation=1)!
 Currently being worked on, will add whatever I feel is an upgrade.
 
