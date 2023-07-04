@@ -1,7 +1,8 @@
+[![Discord](https://img.shields.io/discord/1035733638735728701?style=for-the-badge&logo=discord&label=Discord&labelColor=black&color=lightblue)](https://discord.gg/FdWDRYBBkf)
 [![Modrinth](https://img.shields.io/modrinth/dt/sjUk6lfU?style=for-the-badge&logo=modrinth&label=Modrinth&labelColor=black&color=green)](https://modrinth.com/datapack/crafting+)
 ![GitHub](https://img.shields.io/github/license/kxffie/craftingplus?style=for-the-badge&logo=github&label=Github&labelColor=black&color=white)
 
-# Hey! I'm [Kxffie](https://www.youtube.com/Kxffie?sub_confirmation=1)!
+# Hey! I'm‎‎‏‏‎ [Kxffie](https://www.youtube.com/Kxffie?sub_confirmation=1)!
 Currently being worked on, will add whatever I feel is an upgrade.
 
 Not 100% sure what all to add, but if you go to the GitHub you can request recipes!
