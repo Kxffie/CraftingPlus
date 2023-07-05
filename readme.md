@@ -42,7 +42,7 @@ You can find this datapack at https://modrinth.com/datapack/crafting+
 
 
 # Future ideas
-- Suggest ideas in the GitHub
+- Suggest ideas in the GitHub or Discord
 
 # Donate
 [PayPal](https://www.paypal.com/paypalme/kxffie) [Cashapp](https://cash.app/$kxffie)
