@@ -1,3 +1,5 @@
+[![Crafting+](https://github.com/Kxffie/CraftingPlus/blob/main/raw.png)](https://modrinth.com/datapack/crafting+)
+
 [![Discord](https://img.shields.io/discord/1035733638735728701?style=for-the-badge&logo=discord&label=Discord&labelColor=black&color=lightblue)](https://discord.gg/FdWDRYBBkf)
 [![Modrinth](https://img.shields.io/modrinth/dt/sjUk6lfU?style=for-the-badge&logo=modrinth&label=Modrinth&labelColor=black&color=green)](https://modrinth.com/datapack/crafting+)
 ![GitHub](https://img.shields.io/github/license/kxffie/craftingplus?style=for-the-badge&logo=github&label=Github&labelColor=black&color=white)
