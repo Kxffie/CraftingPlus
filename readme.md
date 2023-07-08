@@ -2,14 +2,14 @@
 [![Modrinth](https://img.shields.io/modrinth/dt/sjUk6lfU?style=for-the-badge&logo=modrinth&label=Modrinth&labelColor=black&color=green)](https://modrinth.com/datapack/crafting+)
 ![GitHub](https://img.shields.io/github/license/kxffie/craftingplus?style=for-the-badge&logo=github&label=Github&labelColor=black&color=white)
 
-# Hey! I'm [Kxffie](https://www.youtube.com/Kxffie?sub_confirmation=1)!
+# Hey! I'm [Kxffie](https://www.youtube.com/Kxffie?sub_confirmation=1)!
 Currently being worked on, will add whatever I feel is an upgrade.
 
 Not 100% sure what all to add, but if you go to the GitHub you can request recipes!
 
 You can find this datapack at https://modrinth.com/datapack/crafting+
 
-# Features (v1.20.1.6)
+# Features (v1.20.1.7)
 <details>
 <summary>All features</summary>
 
@@ -24,6 +24,10 @@ You can find this datapack at https://modrinth.com/datapack/crafting+
 - Spectral arrow takes Glow berries, Glow ink sacs and Glowstone dust.
 - Craft any stone tools with any stone (cobblestone, granite, andesite, diorite, tuff, cobbled deepslate, end stone, blackstone and netherrack)
 - Same with Pistons (accepting all wood types as well), Brewing Stands, Dropper and Dispenser, Furnace, Observers and Levers.
+- Craft Rooted Dirt (Hanging Root below Dirt Block)
+- Craft Crismon and Warped nylium blocks with Netherrack below their respected "grass"
+- Craft Twisting and Weeping vines with 3 of their respected "grass" in a row
+- Gravel to Flint
 
 ### Uncraft:
 - Honeycomb Block into honeycombs
@@ -37,6 +41,9 @@ You can find this datapack at https://modrinth.com/datapack/crafting+
 - Snow block into snowballs
 - Dripstone block into pointed dripstones
 - Turn Glowberries to Glowstone
+- Uncraft Sandstone Variants
+- Uncraft Ice Variants
+- Amethyst Block to Shards
 
 ### Smelting
 - Raw ore blocks into block variants (Raw Iron Ore into Iron Block)

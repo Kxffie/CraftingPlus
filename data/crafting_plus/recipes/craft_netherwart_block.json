@@ -1,15 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-      "#"
+      "##",
+      "##"
     ],
     "key": {
       "#": {
-        "item": "minecraft:glowstone"
+        "item": "minecraft:crimson_fungus"
       }
     },
     "result": {
-      "item": "minecraft:glowstone_dust",
-      "count": 4
+      "item": "minecraft:nether_wart_block",
+      "count": 1
     }
   }
