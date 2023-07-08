@@ -46,6 +46,17 @@ You can find this datapack at https://modrinth.com/datapack/crafting+
 - Uncraft Sandstone Variants
 - Uncraft Ice Variants
 - Amethyst Block to Shards
+- Uncraft Honey
+- Uncraft Melons
+- Uncraft Magma Block
+
+### Bulk Crafting
+- Bowls
+- Cauldrons
+- Chains
+- Dispenser (Craft Bow around Dropper)
+- Ender Eyes
+- Gold and Iron Pressure Plates
 
 ### Smelting
 - Raw ore blocks into block variants (Raw Iron Ore into Iron Block)
