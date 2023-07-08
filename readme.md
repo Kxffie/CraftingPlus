@@ -11,7 +11,7 @@ Not 100% sure what all to add, but if you go to the GitHub you can request recip
 
 You can find this datapack at https://modrinth.com/datapack/crafting+
 
-# Features (v1.20.1.7)
+# Features (v1.20.1.8)
 <details>
 <summary>All features</summary>
 
@@ -30,6 +30,8 @@ You can find this datapack at https://modrinth.com/datapack/crafting+
 - Craft Crismon and Warped nylium blocks with Netherrack below their respected "grass"
 - Craft Twisting and Weeping vines with 3 of their respected "grass" in a row
 - Gravel to Flint
+- Craft Red/Brown Mushroom Blocks with 4 of its respected Mushroom types
+- Craft Shroomlight by using a Glowstone Block and Mushroom Stem
 
 ### Uncraft:
 - Honeycomb Block into honeycombs
@@ -49,6 +51,7 @@ You can find this datapack at https://modrinth.com/datapack/crafting+
 - Uncraft Honey
 - Uncraft Melons
 - Uncraft Magma Block
+- Uncraft Red/Brown Mushroom Blocks into 4 of its respected Mushroom types
 
 ### Bulk Crafting
 - Bowls
@@ -60,6 +63,8 @@ You can find this datapack at https://modrinth.com/datapack/crafting+
 
 ### Smelting
 - Raw ore blocks into block variants (Raw Iron Ore into Iron Block)
+- Smelt Flesh into Leather
+- Smelt Saplings into Dead Bushes
 
 </details>
 

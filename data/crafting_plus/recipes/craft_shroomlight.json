@@ -7,23 +7,23 @@
     "key": {
         "/": [
             {
-                "item": "minecraft:grass"
+                "item": "minecraft:red_mushroom_block"
             },
             {
-                "item": "minecraft:moss_carpet"
+                "item": "minecraft:brown_mushroom_block"
             },
             {
-                "item": "minecraft:tall_grass"
+                "item": "minecraft:mushroom_stem"
             }
         ],
         "#": [
             {
-                "item": "minecraft:dirt"
+                "item": "minecraft:glowstone"
             }
         ]
     },
     "result": {
-        "item": "minecraft:grass_block",
+        "item": "minecraft:shroomlight",
         "count": 1
     }
   }
