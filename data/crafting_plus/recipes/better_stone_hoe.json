@@ -1,8 +1,8 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " # ",
-        " # ",
+        " ##",
+        " / ",
         " / "
     ],
     "key": {
@@ -40,7 +40,7 @@
         }
     },
     "result": {
-        "item": "minecraft:stone_sword",
+        "item": "minecraft:stone_hoe",
         "count": 1
     }
   }
