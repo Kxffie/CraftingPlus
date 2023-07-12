@@ -1,8 +1,11 @@
 [![Crafting+](https://raw.githubusercontent.com/Kxffie/CraftingPlus/main/raw.png)](https://modrinth.com/datapack/crafting+)
 
-[![Discord](https://img.shields.io/discord/1035733638735728701?style=for-the-badge&logo=discord&label=Discord&labelColor=black&color=lightblue)](https://discord.gg/FdWDRYBBkf)
-[![Modrinth](https://img.shields.io/modrinth/dt/sjUk6lfU?style=for-the-badge&logo=modrinth&label=Modrinth&labelColor=black&color=green)](https://modrinth.com/datapack/crafting+)
-![GitHub](https://img.shields.io/github/license/kxffie/craftingplus?style=for-the-badge&logo=github&label=Github&labelColor=black&color=white)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/datapack/crafting+)
+[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/github_vector.svg)](https://github.com/Kxffie/CraftingPlus)
+![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg)
+
+[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg)](https://discord.gg/FdWDRYBBkf)
+[![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/youtube-singular_vector.svg)](https://www.youtube.com/Kxffie?sub_confirmation=1)
 
 # Hey! I'm [Kxffie](https://www.youtube.com/Kxffie?sub_confirmation=1)!
 Currently being worked on, will add whatever I feel is an upgrade.
@@ -11,7 +14,7 @@ Not 100% sure what all to add, but if you go to the GitHub you can request recip
 
 You can find this datapack at https://modrinth.com/datapack/crafting+
 
-# Features (v1.20.1.8)
+# Features (v1.20.1.10)
 <details>
 <summary>All features</summary>
 
@@ -32,6 +35,8 @@ You can find this datapack at https://modrinth.com/datapack/crafting+
 - Gravel to Flint
 - Craft Red/Brown Mushroom Blocks with 4 of its respected Mushroom types
 - Craft Shroomlight by using a Glowstone Block and Mushroom Stem
+- Redye Beds, Carpet and Wool
+- Recraft Snow Blocks with Snow Layers
 
 ### Uncraft:
 - Honeycomb Block into honeycombs
@@ -60,6 +65,7 @@ You can find this datapack at https://modrinth.com/datapack/crafting+
 - Dispenser (Craft Bow around Dropper)
 - Ender Eyes
 - Gold and Iron Pressure Plates
+- Bulk Minecarts
 
 ### Smelting
 - Raw ore blocks into block variants (Raw Iron Ore into Iron Block)
@@ -72,5 +78,9 @@ You can find this datapack at https://modrinth.com/datapack/crafting+
 # Future ideas
 - Suggest ideas in the GitHub or Discord
 
+# [Checkout my other work!](https://modrinth.com/user/kxffie)
+
 # Donate
 [PayPal](https://www.paypal.com/paypalme/kxffie) [Cashapp](https://cash.app/$kxffie)
+
+[![paypal-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/paypal-singular_vector.svg)](https://www.paypal.com/paypalme/kxffie)
