@@ -81,6 +81,5 @@ You can find this datapack at https://modrinth.com/datapack/crafting+
 # [Checkout my other work!](https://modrinth.com/user/kxffie)
 
 # Donate
-[PayPal](https://www.paypal.com/paypalme/kxffie) [Cashapp](https://cash.app/$kxffie)
-
 [![paypal-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/paypal-singular_vector.svg)](https://www.paypal.com/paypalme/kxffie)
+[![generic-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/generic-singular_vector.svg)](https://cash.app/$kxffie)
