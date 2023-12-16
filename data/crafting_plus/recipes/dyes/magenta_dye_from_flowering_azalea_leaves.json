@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:flowering_azalea_leaves"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magenta_dye"
+  }
+}
