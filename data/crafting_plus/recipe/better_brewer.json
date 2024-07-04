@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " / ",
+    "###"
+  ],
+  "key": {
+    "#": [
+      {
+        "item": "minecraft:cobblestone"
+      },
+      {
+        "item": "minecraft:granite"
+      },
+      {
+        "item": "minecraft:andesite"
+      },
+      {
+        "item": "minecraft:diorite"
+      },
+      {
+        "item": "minecraft:tuff"
+      },
+      {
+        "item": "minecraft:cobbled_deepslate"
+      },
+      {
+        "item": "minecraft:end_stone"
+      },
+      {
+        "item": "minecraft:blackstone"
+      },
+      {
+        "item": "minecraft:netherrack"
+      }
+    ],
+    "/": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:brewing_stand"
+  }
+}
