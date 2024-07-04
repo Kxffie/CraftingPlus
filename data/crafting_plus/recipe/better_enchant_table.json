@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " @ ",
+    "/#/",
+    "###"
+  ],
+  "key": {
+    "#": [
+      {
+        "item": "minecraft:obsidian"
+      },
+      {
+        "item": "minecraft:crying_obsidian"
+      }
+    ],
+    "/": {
+      "item": "minecraft:diamond"
+    },
+    "@": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:enchanting_table"
+  }
+}

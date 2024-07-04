@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "#"
+  ],
+  "key": {
+    "A": [
+      {
+        "item": "minecraft:grass"
+      },
+      {
+        "item": "minecraft:moss_carpet"
+      },
+      {
+        "item": "minecraft:tall_grass"
+      }
+    ],
+    "#": [
+      {
+        "item": "minecraft:dirt"
+      }
+    ]
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:grass_block"
+  }
+}
