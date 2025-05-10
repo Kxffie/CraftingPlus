@@ -14,7 +14,7 @@ Not 100% sure what all to add, but if you go to the GitHub you can request recip
 
 You can find this datapack at https://modrinth.com/datapack/crafting+
 
-# Features (v1.20.1.10)
+# Features (v1.21.4)
 <details>
 <summary>All features</summary>
 
