@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "#-#",
+    "#@#"
+  ],
+  "key": {
+    "#": "#crafting_plus:stone",
+    "@": "minecraft:redstone",
+    "/": "minecraft:iron_ingot",
+    "A": "#minecraft:planks"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:piston"
+  }
+}

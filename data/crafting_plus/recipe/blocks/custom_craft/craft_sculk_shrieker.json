@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "@ @",
+    "/$/",
+    "###"
+  ],
+  "key": {
+    "/": "minecraft:echo_shard",
+    "$": [
+      "minecraft:soul_sand",
+      "minecraft:soul_soil"
+    ],
+    "@": "minecraft:bone_block",
+    "#": "minecraft:sculk"
+  },
+  "result": {
+    "id": "minecraft:sculk_catalyst",
+    "count": 1
+  }
+}

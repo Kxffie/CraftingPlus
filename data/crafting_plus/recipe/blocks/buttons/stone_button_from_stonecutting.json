@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:stone"
+  ],
+  "result": {
+    "id": "minecraft:stone_button",
+    "count": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:shulker_shell",
+        "minecraft:shulker_shell",
+        "minecraft:chest",
+        "minecraft:brown_dye"
+    ],
+    "result": {
+        "id": "minecraft:brown_shulker_box",
+        "count": 1
+    }
+}

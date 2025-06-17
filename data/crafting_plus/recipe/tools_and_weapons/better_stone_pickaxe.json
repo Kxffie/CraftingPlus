@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    " / ",
+    " / "
+  ],
+  "key": {
+    "#": "#crafting_plus:stone",
+    "/": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:stone_pickaxe",
+    "count": 1
+  }
+}

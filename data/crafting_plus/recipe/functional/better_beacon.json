@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "///",
+    "/@/",
+    "###"
+  ],
+  "key": {
+    "#": "#crafting_plus:obsidian",
+    "/": "#crafting_plus:glass",
+    "@": "minecraft:nether_star"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:beacon"
+  }
+}

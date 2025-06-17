@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "#crafting_plus:mushroom",
+    "#crafting_plus:glowing"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:shroomlight"
+  }
+}

@@ -7,14 +7,14 @@
 [![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg)](https://discord.gg/FdWDRYBBkf)
 [![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/youtube-singular_vector.svg)](https://www.youtube.com/Kxffie?sub_confirmation=1)
 
-# Hey! I'm [Kxffie](https://www.youtube.com/Kxffie?sub_confirmation=1)!
+# Hey! I'm Kxffie!
 Currently being worked on, will add whatever I feel is an upgrade.
 
-Not 100% sure what all to add, but if you go to the GitHub you can request recipes!
+Please join the [Discord](https://discord.gg/8PTH9Knt) for suggestions on what to add/fix!
 
 You can find this datapack at https://modrinth.com/datapack/crafting+
 
-# Features (v1.21.4)
+# Features (v1.21.5)
 <details>
 <summary>All features</summary>
 
@@ -60,20 +60,39 @@ You can find this datapack at https://modrinth.com/datapack/crafting+
 
 ### Bulk Crafting
 - Bowls
+- Bread
 - Cauldrons
 - Chains
 - Dispenser (Craft Bow around Dropper)
+- Snow
 - Ender Eyes
 - Gold and Iron Pressure Plates
 - Bulk Minecarts
+- Chests
+- Ladders
+- Sticks
 
 ### Smelting
 - Raw ore blocks into block variants (Raw Iron Ore into Iron Block)
 - Smelt Flesh into Leather
 - Smelt Saplings into Dead Bushes
+- Smelt stairs/slabs (So you dont have to craft after smelting)
+
+### Converting
+- Glowberry to Glowstone
+- Sticks from Dead Bush (Guaranteed 1 Stick)
+
+### Flower Duplication
+- Duplicate any flower with bonemeal in the crafting table to recieve double the original.
+
+### Better Shulker Box Crafting
+- Shapeless crafting, can craft in inventory crafting slots
+- Shapeless with dyeing, utilize all 4 inventory crafting slots!
+
+## And many more!
+Just over 300+ better recipes!
 
 </details>
-
 
 # Future ideas
 - Suggest ideas in the GitHub or Discord

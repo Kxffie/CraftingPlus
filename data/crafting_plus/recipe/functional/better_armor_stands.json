@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "///",
+    " /",
+    "/#/"
+  ],
+  "key": {
+    "#": "#crafting_plus:stone_slabs",
+    "/": "minecraft:stick"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:beacon"
+  }
+}

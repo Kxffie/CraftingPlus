@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:popped_chorus_fruit"
+  ],
+  "result": {
+    "id": "minecraft:magenta_dye"
+  }
+}

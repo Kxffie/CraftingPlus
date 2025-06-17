@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#/#",
+        "/#/",
+        "#/#"
+    ],
+    "key": {
+        "#": "minecraft:stone",
+        "/": [
+        "minecraft:raw_iron",
+        "minecraft:iron_ingot"
+        ]
+    },
+    "result": {
+        "count": 1,
+        "id": "minecraft:iron_ore"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:ink_sac",
+      "minecraft:glow_ink_sac"
+    ],
+    "minecraft:paper",
+    "minecraft:string"
+  ],
+  "result": {
+    "id": "minecraft:name_tag",
+    "count": 1
+  }
+}
