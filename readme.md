@@ -4,13 +4,10 @@
 [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/github_vector.svg)](https://github.com/Kxffie/CraftingPlus)
 ![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg)
 
-[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg)](https://discord.gg/FdWDRYBBkf)
 [![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/youtube-singular_vector.svg)](https://www.youtube.com/Kxffie?sub_confirmation=1)
 
 # Hey! I'm Kxffie!
 Currently being worked on, will add whatever I feel is an upgrade.
-
-Please join the [Discord](https://discord.gg/8PTH9Knt) for suggestions on what to add/fix!
 
 You can find this datapack at https://modrinth.com/datapack/crafting+
 
